@@ -1,2 +1,2 @@
 # Gallery-App
-A gallery app
+Supposed to be a gallery webapp.
